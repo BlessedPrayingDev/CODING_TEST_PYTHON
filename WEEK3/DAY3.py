@@ -1,3 +1,5 @@
+# 문제 번호: 9498
+# 제목: 시험 성적
 grade = int(input())
 if grade >= 90 :
     print("A")

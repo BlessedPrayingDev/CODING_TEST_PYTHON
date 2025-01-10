@@ -1,3 +1,5 @@
+# 문제 번호: 2884
+# 제목: 알람 시계
 H, M= map(int, input().split())
 
 if(H <= 24 and M <= 59) :

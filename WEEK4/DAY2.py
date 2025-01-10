@@ -1,3 +1,5 @@
+# 문제 번호: 2525
+# 제목: 오븐 시계
 a, b= map(int, input().split())
 c = int(input())
 

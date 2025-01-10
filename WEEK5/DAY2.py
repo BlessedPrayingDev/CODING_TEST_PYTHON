@@ -1,3 +1,5 @@
+# 문제 번호: 25304
+# 제목: 영수증
 totAmt = int(input())
 itemCount = int(input())
 sum = 0

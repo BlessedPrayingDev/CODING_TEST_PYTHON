@@ -1,3 +1,5 @@
+# 문제 번호: 2480
+# 제목: 주사위 세개
 a, b, c = map(int, input().split())
 if a == b == c:
     print(10000 + a*1000)
