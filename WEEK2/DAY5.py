@@ -1,3 +1,5 @@
+# 문제 번호: 2588
+# 제목: 곱셈
 a = int(input())
 b = int(input())
 print(a * (b % 10))
